@@ -1,8 +1,8 @@
 ## Hi there 👋
-- 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/bishwanathpaul/)
-- 🔭 I’m currently working on : WEB-DEV & DSA projects
-- 🌱 I’m currently learning : WEB-DEV & DSA.
-- ⚡ Fun fact: Looking for a JOB
+- 📫 How to reach me : **[Linkedin](https://www.linkedin.com/in/bishwanathpaul/)**
+- 🔭 I’m currently working on : **WEB-DEV & DSA projects.**
+- 🌱 I’m currently learning : **WEB-DEV & DSA.**
+- ⚡ Fun fact: **Looking for a JOB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
