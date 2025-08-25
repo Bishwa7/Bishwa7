@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning : WEB-DEV & DSA.
 - ⚡ Fun fact: Looking for a JOB
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bishwanathpaul/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bishwanath Paul" height="30" width="40" /></a>
+</p>
 
 
 <!--
