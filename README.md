@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 📫 How to reach me : **[Linkedin](https://www.linkedin.com/in/bishwanathpaul/)**
+- 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/bishwanathpaul/)
 - 🔭 I’m currently working on : **WEB-DEV & DSA projects.**
 - 🌱 I’m currently learning : **WEB-DEV & DSA.**
 - ⚡ Fun fact: **Looking for a JOB**
