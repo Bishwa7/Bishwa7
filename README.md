@@ -1,13 +1,17 @@
-# Hi there 👋
-- 📫 How to reach me : **[Linkedin](https://www.linkedin.com/in/bishwanathpaul/)**
-- 🔭 I’m currently working on : **WEB-DEV & DSA projects.**
-- 🌱 I’m currently learning : **WEB-DEV & DSA.**
-- ⚡ Fun fact: **Looking for a JOB**
+# Namaste! 👋
+- CS Major and an Engineer.
+- 📫 How to reach me :- **[Linkedin](https://www.linkedin.com/in/bishwanathpaul/)**
+- 🔭 Skills & Technologies :-
+  - **Frontend** : HTML, CSS, React.js, Tailwind CSS, Figma
+  - **Backend** : JavaScript, TypeScript, Node.js, Express.js
+  - **Database** : MongoDB, MySQL, PostgreSQL
+  - **Others** : C++, Python, Git, GitHub, VS Code, Postman, Linux
+- ⚡ Fun fact :- **Actively looking for a JOB**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bishwanathpaul/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bishwanath Paul" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 <!--
