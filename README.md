@@ -1,5 +1,5 @@
 # Namaste! 👋
-- CS Major and an Engineer.
+- CS Major.
 - 📫 How to reach me :- **[Linkedin](https://www.linkedin.com/in/bishwanathpaul/)**
 - 🔭 Skills & Technologies :-
   - **Frontend** : HTML, CSS, React.js, Tailwind CSS, Figma
